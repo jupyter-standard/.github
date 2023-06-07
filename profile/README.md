@@ -1,4 +1,4 @@
-## jupyter-standards
+## jupyter-standard
 
 <!--
 
@@ -10,9 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-This organization contains standards and protocols for [Project Jupyter](https://jupyter.org).
+This organization contains standard and protocols for [Project Jupyter](https://jupyter.org).
 
-### Standards Links
+### Standard Links
 - [Jupyter Enhancement Proposals (JEPs) Repo](https://github.com/jupyter/enhancement-proposals)
 - [JEPs Rendered pages](https://jupyter.org/enhancement-proposals/README.html)
 

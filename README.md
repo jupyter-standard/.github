@@ -1,2 +1,2 @@
 # .github
-Public organization profile for jupyter-standards
+Public organization profile for jupyter-standard
